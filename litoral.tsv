@@ -1,0 +1,86 @@
+[
+ {
+   "Comunidad": "Galicia",
+   "Playas": 843,
+   "Banderas": 120,
+   "Litoral": 269858,
+   "PaseoMaritimo": 117261
+ },
+ {
+   "Comunidad": "Canarias",
+   "Playas": 578,
+   "Banderas": 43,
+   "Litoral": 207654,
+   "PaseoMaritimo": 63765
+ },
+ {
+   "Comunidad": "Cataluña",
+   "Playas": 404,
+   "Banderas": 95,
+   "Litoral": 235478,
+   "PaseoMaritimo": 112897
+ },
+ {
+   "Comunidad": "Andalucía",
+   "Playas": 398,
+   "Banderas": 84,
+   "Litoral": 538969,
+   "PaseoMaritimo": 195134
+ },
+ {
+   "Comunidad": "Illes Balears",
+   "Playas": 344,
+   "Banderas": 52,
+   "Litoral": 116437,
+   "PaseoMaritimo": 34640
+ },
+ {
+   "Comunidad": "Comunitat Valenciana",
+   "Playas": 328,
+   "Banderas": 123,
+   "Litoral": 276441,
+   "PaseoMaritimo": 131884
+ },
+ {
+   "Comunidad": "Asturias",
+   "Playas": 202,
+   "Banderas": 16,
+   "Litoral": 69518,
+   "PaseoMaritimo": 13645
+ },
+ {
+   "Comunidad": "Región de Murcia",
+   "Playas": 198,
+   "Banderas": 31,
+   "Litoral": 102031,
+   "PaseoMaritimo": 51928
+ },
+ {
+   "Comunidad": "Cantabria",
+   "Playas": 77,
+   "Banderas": 4,
+   "Litoral": 48810,
+   "PaseoMaritimo": 14095
+ },
+ {
+   "Comunidad": "País Vasco",
+   "Playas": 67,
+   "Banderas": 2,
+   "Litoral": 30715,
+   "PaseoMaritimo": 15751
+ },
+ {
+   "Comunidad": "Ceuta",
+   "Playas": 16,
+   "Banderas": 2,
+   "Litoral": 5240,
+   "PaseoMaritimo": 2105
+ },
+ {
+   "Comunidad": "Melilla",
+   "Playas": 8,
+   "Banderas": 2,
+   "Litoral": 2730,
+   "PaseoMaritimo": 2470
+ }
+]
